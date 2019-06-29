@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
   title = 'Angular Spring Demo';
-  description = 'angular 7.2.0 + spring boot 2.1.4';
+  description = 'angular 8.0.3 + spring boot 2.1.4';
   users = '';
 
   constructor(private httpclient: HttpClient) {}
