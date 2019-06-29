@@ -1,6 +1,6 @@
 # angular-spring-demo
 
-Angular 7 + Spring Boot 2 demo
+Angular 8 + Spring Boot 2 demo
 
 ## Prerequisites
 
